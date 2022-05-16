@@ -10,3 +10,5 @@ The purpose of this work is to exploit a database using SQL querries to build a 
 -	Logistics: The stock of the 5 most ordered products.
 
 -	Human Resources: Each month, the 2 sellers with the highest turnover.
+
+![data base overview](https://user-images.githubusercontent.com/79851971/168607542-28b51f65-3625-4255-85ee-4e5e075e7d43.jpg)
