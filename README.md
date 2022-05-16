@@ -10,10 +10,3 @@ The purpose of this work is to exploit a database using SQL querries to build a 
 -	Logistics: The stock of the 5 most ordered products.
 
 -	Human Resources: Each month, the 2 sellers with the highest turnover.
-
-###--The data base is provided by the company on a cloud server, we can rebuild it in local on a Mysql Server by executing the script ont the file provided below--###
-
-https://drive.google.com/file/d/1wXu5t7bahLhbGXOT6uCTOVLjPH-2oQ_d/view
-
-this is what the data base looks like : 
-
