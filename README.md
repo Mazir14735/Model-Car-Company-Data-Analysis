@@ -2,7 +2,7 @@
 
 The purpose of this work is to exploit a database using SQL querries to build a dashboard that is based on 4 relevant KPIs required by the customer as following :
 
--	Sales: The number of products sold by category and by month
+-	Sales: The number of products sold by category and by month,
 
 -	Finances: a-The turnover of the orders of the two month before the last order by country. 
               b-Orders that have not yet been paid.
