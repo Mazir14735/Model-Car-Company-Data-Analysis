@@ -5,7 +5,7 @@ The purpose of this work is to exploit a database using SQL querries to build a 
 -	Sales: The number of products sold by category and by month,
  
 -	Finances: a-The turnover of the orders for 2021 by country. 
-            b-Orders that have not yet been paid.
+            b-Customers that have unpaid amounts, with value of these amounts.
 
 -	Logistics: The stock of the 5 most ordered products.
 
