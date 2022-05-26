@@ -1,4 +1,4 @@
-# Model-Car-Company-Data-s-Analysis
+# Model-Car-Company-Data-Analysis
 
 The purpose of this work is to exploit a database using SQL querries to build a dashboard that is based on 4 relevant KPIs required by the customer as following :
 
