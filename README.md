@@ -4,7 +4,11 @@ The purpose of this work is to exploit a database using SQL querries to build a 
 
 -	Sales: The number of products sold by category and by month,
 
+<<<<<<< HEAD
 -	Finances: a-The turnover of the orders for 2021 by country. 
+=======
+-	Finances: a-The turnover of the orders for 2020 by country. 
+>>>>>>> dc083688914551fa206826552cb0c6a40180dec1
               b-Orders that have not yet been paid.
 
 -	Logistics: The stock of the 5 most ordered products.
