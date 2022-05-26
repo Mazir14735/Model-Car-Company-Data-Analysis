@@ -4,8 +4,11 @@ from
 FROM orderdetails OD
 JOIN orders O
 ON OD.orderNumber = O.orderNumber
-group by O.customerNumber)a
-join (select sum(amount) as payed, customerNumber from payments
-group by customerNumber)b
+group by O.customerNumber
+)a
+join (select sum(amount) as payed, customerNumber 
+from payments
+group by customerNumber
+)b
 on a.customerNumber = b.customerNumber
 where (ordered-payed) > 0
